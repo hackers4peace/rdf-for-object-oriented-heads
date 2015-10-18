@@ -3,14 +3,14 @@ RDF for people used to Object-oriented programming (OOP)
 
 ## status
 
+**For now just a skrach book to collect notes**
+
 ## recommended reading
 
 * http://www.w3.org/TR/rdf11-primer/
 * http://patterns.dataincubator.org/book/
 
 ## topics
-
-For now just a skrach book to collect notes
 
 ### open world assumption
 
