@@ -3,7 +3,26 @@ RDF for people used to Object-oriented programming (OOP)
 
 ## status
 
+## recommended reading
+
+* http://www.w3.org/TR/rdf11-primer/
+* http://patterns.dataincubator.org/book/
+
+## topics
+
 For now just a skrach book to collect notes
+
+### open world assumption
+
+https://en.wikipedia.org/wiki/Open-world_assumption
+
+### anyone can say anything about anything
+
+http://www.w3.org/TR/2002/WD-rdf-concepts-20020829/#xtocid48014
+
+### follow your nose
+
+http://patterns.dataincubator.org/book/follow-your-nose.html
 
 ### classes and properties
 
