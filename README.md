@@ -32,6 +32,12 @@ from https://github.com/valueflows/agent/issues/15#issuecomment-148893163
 
 > Since rdf:Property doesn't stay 'inside' owl:Class and has its full autonomy! Actually properties define their relationships to classes (eg. rdfs:domain and rdfs:range) and I can't really think of example where class would define relationship to some properties.
 
+while it seams that definition of clases can have their semantics dependent on existance of some properties 
+
+eg. https://github.com/valueflows/agent/issues/38#issuecomment-150543678
+
+> If we define vf:Transfer (not the physical one - sth:Transport) as "An vf:Agent (individual or group), who have ownership over a resource, passes this ownership onto another agent". I don't see a way to define shared concept of Transfer without first defining shared concept of ownership. In other worlds, unless we agree on shared generic owns/owner relation between agent and resource, it seems to me that we can forget about defining shared generic concept of Transfer ( and later Exchange dependent on definition of Transfer )
+
 
 ### types or classes 
 
