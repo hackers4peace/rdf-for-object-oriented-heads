@@ -28,6 +28,10 @@ http://patterns.dataincubator.org/book/follow-your-nose.html
 
 http://www.w3.org/DesignIssues/Axioms.html#opaque
 
+### Cool URIs don't change
+
+http://www.w3.org/Provider/Style/URI.html
+
 ### classes and properties
 
 from https://github.com/valueflows/agent/issues/15#issuecomment-148893163
