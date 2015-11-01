@@ -24,6 +24,10 @@ http://www.w3.org/TR/2002/WD-rdf-concepts-20020829/#xtocid48014
 
 http://patterns.dataincubator.org/book/follow-your-nose.html
 
+### opaque URIs
+
+http://www.w3.org/DesignIssues/Axioms.html#opaque
+
 ### classes and properties
 
 from https://github.com/valueflows/agent/issues/15#issuecomment-148893163
