@@ -8,6 +8,7 @@ RDF for people used to Object-oriented programming (OOP)
 ## recommended reading
 
 * http://www.w3.org/TR/rdf11-primer/
+* http://linkeddatabook.com/book
 * http://patterns.dataincubator.org/book/
 
 ## topics
